@@ -1,0 +1,357 @@
+ticket_id,recorded_reason_code,refund_amount_inr,customer_message,agent_notes,category,assigned_team,agent_id,human_label,human_notes,reviewer
+TK-242405,DOA-REPL,400.0,sccreen has a crack before i even switched it on,cx states transit damage. chk with courier for damage claim. rfnd of Rs 400 initiated to source. //AIS,Delivery & Shipping,Logistics,A3030,,,
+TK-247145,GW-OTHER,6999.0,"Hello Vireo, Ordered Strata 3 a month ago.  Refund was promised 15 days ago and nothing. I emailed twice. Honestly regretting this purchase. Please call me on my registered number. Thanks in advance, Hasrh","1. rfnd pending
+2. checked rfnd status on pg
+3. arn shared with cx.
+full rfnd issued and replacement dispatched as goodwill. ~Sneha",Billing & Payments,Billing,A3032,,,
+TK-247102,DUP-PAYMENT,3500.0,"Hi Vireo support,
+Got Strata 3 from Amazon 3 weeks back. Paid via UPI, amount deducted, no order confirmation.
+I waited 24 hours.
+Not what I expected from Vireo.
+How do I get this fixed?
+Thank you Harsh Ghosh","cx reached out - amount deducted without order. Aked for UTR. rfnd approved, Rs 3500, 5-7 working days. Closing.",Billing & Payments,Billing,A3035,,,
+TK-242985,GW-OTHER,6999.0,I bought Strata 3 on 08 Feb. Not pairing w/ my phone. I tried on another phone. Can someone fix this? Thnaks Manish,"cx reported device not discoverable. chk phone os version. adv fw update via app, rslvd.
+rfnd done & new unit sent as one-time gesture. -KS",Connectivity,Email Frontline,A3017,,,
+TK-240146,GW-OTHER,6999.0,"hi there, i bought strata 3 on 04/01.  still waiting for my refund. i checked bank. kindly look into it.",rfnd of rs 6999 initiated to source. issue: rfnd delay. checked rfnd status on pg.,Returns & Refunds,Returns Desk,A3037,,,
+TK-249713,GW-OTHER,3499.0,"hii
+product arrived damaged
+pls reply","Reverse pickup arranged. Issue: unit received damaged. Photos received, damage confirmed. Full refund issued and replacement dispatched as goodwill.",Delivery & Shipping,Logistics,A3031,,,
+TK-250604,GW-OTHER,3499.0,"cancel order 
+please resolve asap","1. ord cancellation
+2. Cancelled before dispatch
+3. xfer to Email Frontline
+4. Full rfnd processed (3499) ~Meera",Delivery & Shipping,Logistics,A3021,,,
+TK-253244,DOA-REPL,3499.0,"Hello Vireo, I bought Pulse 2 on April 19. Received damaged product. I REFUSED NOTHING AS I DIDN'T NOTICE TILL LATER. I want a replacement. Please revert, Vihaan","Reevrse pckup arranged. Issue: transit damage. Photos received, damage confirmed.",Returns & Refunds,Returns Desk,A3036,,,
+TK-245535,GW-OTHER,1599.0,"Hi Vireo support, Ordered teh fit band in August.  Strap material peeling like an old sticker. I want a replacement","1. strap pin issue
+2. asked for photo
+3. full refund processed (1599) ~Reyansh",Warranty & Repair,Escalations & Warranty,A3039,,,
+TK-243586,GW-OTHER,1799.0,I am losing patience. Got AirLite from vireo.in a month ago. I was charged twice for one order. I already waited a week. This is the last time I buy from you.,"1. duplicate payment
+2. confirmed utrs
+3. duplicate refunded to source",Billing & Payments,Billing,A3032,,,
+TK-241284,GW-OTHER,375.0,"HII
+PLEASE CANCEL, ORRDERED BY MISTAKE
+MY PULSE",Full rfnd processed (375). Issue: cancelllation request. Cancelled before dispatch.,Other,Chat Frontline,A3011,,,
+TK-252173,GW-OTHER,6299.0,I haev been a loyal customr and this is how u treat me.  This is regardign the strata 3. buetooth pairing fails every time. I already forgot the device and tried again. Escalate this to someone senior.,"1. Pairing failure
+2. Walked through forget + re-pair
+3. Transferred to Returns Desk
+4. Full refund processed (6299)",Connectivity,Chat Frontline,A3038,,,
+TK-240285,DUP-PAYMENT,4799.0,"bhi
+upi shows success, your app shows nothing
+kuch karo
+urgent","1. amount deducted without order
+2. asked for utr
+3. refund approved, rs 4799, 5-7 working days ~Sneha",Billing & Payments,Billing,A3032,,,
+TK-248782,GW-OTHER,3149.0,"team,
+watn to cancel my ordder
+kuch kaor",Reported: cancel order. Checked shipment status. Refund of Rs 3149 initiated to source. ~Krishna,Other,Email Frontline,A3018,,,
+TK-243594,PRICE-ADJ,3499.0,"Dear Sir/Madam,
+
+I am writing with reference to my order of Pulse 2 (VR894402) placed on July 26.  Coupon code not working. I have trried on app and website. I request you to process a refund to my original pamyent method.
+
+Regards,
+Kavya Pawar","1. promo code invalid
+2. checked cart eligibility
+3. refunded rs 3499",Billing & Payments,Billing,A3033,,,
+TK-241675,GW-OTHER,1799.0,"hi
+bluetooth pairing fails every time
+airlite","Cx reported device not discoverable. Walked through forget + re-pair. Re-pair successful, resolved on chat.
+Amount returned to card; fresh unit shipped from BLR warehouse.",Connectivity,Chat Frontline,A3005,,,
+TK-254169,CANCEL,297.0,"Product: my Pulse 2
+Purchased: May 31
+Issue: please cancel, ordered by mistake
+Tried: tried cancel button, greyed out
+Expected: callback","Cx reported cancel order. Cancelled before dispatch. Cancelled, refund initiated.",Other,Email Frontline,A3022,,,
+TK-240725,CANCEL,1709.0,"product: airlite
+order: vr885925
+purchased: 21 feb
+issue: want to cancel my order
+tried: tried cancel button, greyed out
+expected: fix",Refunded Rs 1709. Issue: cancel order. Checked shipment status. ~Krishna,Other,Email Frontline,A3018,,,
+TK-241215,GW-OTHER,6649.0,"PRODUCT: THE STRATA 3
+ORDER: VR883029
+PURCHASED: 22 MAR
+ISSUE: PAID VIA UPI, AMOUNT DEDUCTED, NO ORDER CONFIRMATION
+TRIED: TRIED LOGGGING OUT & IN
+EXPECTED: REPLACEMENT","cx states amount deducted without ord. chk PG dashboard for txn. rfnd approved, Rs 6649, 5-7 working days. Cx satisfied on chat.",Billing & Payments,Billing,A3035,,,
+TK-250877,GW-OTHER,2878.0,"[IVR transcript] Hey, Ordered the AirLite buds 2 weeks ago. UPI shows success, ur app shows nothing. Please help. Regards","1. amount deducted without ord
+2. confirmed w/ payment gateway
+3. ord manually created",Billing & Payments,Billing,A3033,,,
+TK-252357,GW-OTHER,1299.0,"Dear Sir/Madam,
+
+I am writing wih reference to my order of my Arc placed on 29 Mar. Refuund not reeived yet. I have checked bank. I request you to process a refund to my original pyment method.
+
+Regards,
+Komal Malhotra
+Vadodara",Cx says rfnd delay. chk reverse pickup QC status. rfnd of Rs 1299 initiated to source. Will monitor. Payment reversed Rs 1299. New piece dispatched same day.,Billing & Payments,Billing,A3035,,,
+TK-242030,WTY-BUYBACK,1599.0,"the pairing light blinks but nothing ever shos up on my Samsung, VR892748","1. Device not discoverable
+2. Walked through forget + re-pair
+3. Re-pair successful, rslvd on chat. -- Amount returned to card; fresh unit shipped from BLR warehouse. //AAD",App & Firmware,Voice Frontline,A3026,,,
+TK-253023,GW-OTHER,1999.0,"bhai
+i haven't received my order
+abhi tak kuch nahi hua
+the fit band
+anyone there","Cx says dlvry delayed. Raised ticket with courier partner. Refund approved, Rs 1999, 5-7 working days. //AIS",Delivery & Shipping,Logistics,A3030,,,
+TK-240492,GW-OTHER,4749.0,"hello,
+i bought my nexa on 25 jan. ordered the wrong colour, don't ship it.
+please help",cx says cancel ord. cancelled before dispatch. full rfnd processed (4749). -KS,Other,Chat Frontline,A3017,,,
+TK-244806,RETURN-QC-OK,6499.0,"dear sir/madam,
+got my nexa 2 watch from amazon last month.  you picked up the item 15 days ago and my money hasn't come back.
+i emailed twice. nothing changed.
+please advise.",cx reached out - rfnd delay. Chcked rfnd status on PG. rfnnd of Rs 6499 initiated to source. Cx informed. (SOP 3.1),Returns & Refunds,Returns Desk,A3036,,,
+TK-251186,GW-OTHER,446.0,I bought Pulse2 on February 16. Nobody came for the pickup. I rescheduled pickup twice. Nothing changed. Can someone fix this? Thanks in advance Vivaan,"1. Pickup not done
+2. Re-raised pickup w/ crr
+3. Refund of Rs 446 initiated to source",Returns & Refunds,Returns Desk,A3038,,,
+TK-254317,GW-OTHER,1799.0,"hello ji
+paiirng is not working
+abhi tak kuch nahi hua
+airlite vr892397
+kinly do the needful","rfnd approved, Rs 1799, 5-7 working days. Issue: unable to pair w/ phone. Checked phone OS version. //MEE",Connectivity,Chat Frontline,A3008,,,
+TK-252158,LOST-TRANSIT,3499.0,"product: pulse 2 buds
+order: vr891344
+purchased: 15/04
+issue: i haven't received my order
+tried: called teh courier
+expected: fix","Cust contacted re dlvry delayed. Raised ticket with courier partner. Transferred to Returns Desk. Refund approved, Rs 3499, 5-7 working days. Follow-up not required.",Delivery & Shipping,Logistics,A3036,,,
+TK-247472,GW-OTHER,1439.0,payment went through but I got no order id,sorted,Billing & Payments,Billing,A3034,,,
+TK-248314,DUP-PAYMENT,3149.0,pathetic experience honestly. bought pulse 2 buds around 06/12 from vireo.in. payment went through but i got no order id. i already checked bank statement. this is the last time i buy from you,"1. payment debited, no ord
+2. asked for utr
+3. refund approved, rs 3149, 5-7 working days",Billing & Payments,Billing,A3033,,,
+TK-246601,GW-OTHER,1187.0,"hey
+payment went through but i got no order id
+the mini speaker VR907826
+anyone there","1. amount deducted without ord
+2. chk pg dashboard for txn
+3. full rfnd processed (1187)",Billing & Payments,Billing,A3033,,,
+TK-249490,GW-OTHER,2974.0,"To the Vireo Customer Care Team,
+
+I am writing w/ reference to my order of Pulse 2 (VR897172) placed on January 19.  Received the wrong item. I have checked the invoice. I request you to kindly arrange a replacement.
+
+Yours faithfully,
+Priya Deshpande",reverse pkp + correct item shipped ~Manish,Returns & Refunds,Returns Desk,A3037,,,
+TK-247079,WTY-BUYBACK,5999.0,"Hi Vireo support,
+Ordered my Orbiit in September.  Claim number RMA99741, anyone alive there?.
+I called service centre. Nothing changed.
+Pease help.
+Rgds, Manish Chopra","re: repair status follow-up | checked qc report -> replacement approved and dispatched (sop 5.4)
+cx got the amount back, also sending a new set to keep him happy. ~Reyansh",Warranty & Repair,Escalations & Warranty,A3039,,,
+TK-246844,GW-OTHER,6499.0,This is very disappointing.  Got Nexa 2 from Amazon around Diwali. opened the parcel and it is a completely different thing. I already rechecked my order. Fix this or I am posting on twitter.,refunded rs 6499. issue: incorrect product shipped. verified order vs delivered item photos. -- both refund and replacement given as cx threatened social media. -RM,Delivery & Shipping,Logistics,A3029,,,
+TK-241213,PRICE-ADJ,6174.0,"Honestly regretting this purchase. I bought my Nexa 2 watch on 16-03-2025. your ad said 20% off and the cart says full price. I already tried in caps. I want a replacement or refund, nothing else.",done (sop 3.1),Billing & Payments,Billing,A3034,,,
+TK-247882,GW-OTHER,2799.0,"Bought Pulse2 around 23/11 from vireo.in.  Canecl order. I tried cancel button, greyed out. Nothing changed. Please help. Regads Sunita Kapoor","cancel ord | chk shipment status -> cancelled, rfnd initiated ~Tenzin",Other,Chat Frontline,A3010,,,
+TK-241089,RETURN-QC-OK,4748.0,"Product: the mini speaker
+Order: VR893525
+Purchased: 26-02-2025
+Issue: still waiting for my refund
+Tried: emailed twice
+Expected: callback",Contact re refund pending. Checked refund status on PG. ARN shared with cx. Cx informed. -- Refund issued; replacement not applicable (out of stock).,Returns & Refunds,Returns Desk,A3036,,,
+TK-249782,RETURN-QC-OK,1799.0,"hello
+return pickup has not happened
+hello??",pickup rescheduled for 05 feb. issue: reverse pickup pending. re-raised pickup with courier. -RM,Delivery & Shipping,Logistics,A3029,,,
+TK-250155,GW-OTHER,2799.0,"Daer Sir/Madam,
+This is regarding my Pulse 2. Still waiting for my refund.
+Please help.
+Regards, Saanvi Goyal",issue: refund pending | chk reverse pickup qc status -> full refund processed (2799),Returns & Refunds,Returns Desk,A3036,,,
+TK-252726,GW-OTHER,4499.0,"sir ji
+only one side plays sound
+abhi tak kuch nahi hua
+strata 2 vr900807
+help",refunded rs 4499. issue: single side audio only. asked cx to check bud in case. ~Rohit,Audio Quality,Chat Frontline,A3013,,,
+TK-245136,GW-OTHER,1487.0,Honestly regretting this purchase. I bougt my Pulse 2 on 16-09-2025. nobody came for the pickup. I aready called courier. Refund. Now.,"Cust contacted re pickup missed. Checked pickup AWB. Refund approved, Rs 1487, 5-7 worikng days. Closing. (SOP 5.4)",Returns & Refunds,Returns Desk,A3036,,,
+TK-249912,GW-OTHER,3149.0,pathetic experience honestly. this is regarding my pulse 2. refund not received yet. i already checked bank. fix this or i am posting on twitter.,refund of rs 3149 initiated to source. issue: refund not credited. checked refund status on pg. ~Manish,Returns & Refunds,Returns Desk,A3037,,,
+TK-241876,GW-OTHER,2249.0,"Product: Orbit Mini
+Purchased: April 29
+Issue: payment was deducted but no order was created
+Tried: tried logging out and in
+Expected: refund",resolved on call,Billing & Payments,Billing,A3033,,,
+TK-249220,LOST-TRANSIT,3149.0,"hello,
+pulse 2 purchased recently, order vr900688. the courier marked it delivered but nobody in my house got anything.
+i checked the tracking pae daily. nothing changed.
+i want a replacement.
+thanks in advance,","1. dlvry delayed
+2. Raised ticket w/ courier partner
+3. Full refund processed (3149)",Delivery & Shipping,Logistics,A3027,,,
+TK-247610,GW-OTHER,2974.0,"where is the money for the return
+VR891560
+please resolve asap",Refund confirmed credited. Issue: refund delay. Checked reverse pickup QC status. (SOP 3.1),Returns & Refunds,Returns Desk,A3036,,,
+TK-252291,GW-OTHER,3149.0,"Hi team, I bought Pulse 2 on April 12. Want to cancel my order. I tried cancel button, greyed out. Please resolve asap. Regards,","Already shipped, adv RTO/return. Issue: ord cancellation. Cancelled before dispatch. //MEE",Other,Chat Frontline,A3008,,,
+TK-245341,DOA-REPL,6174.0,"Not what I expected from Vireo. Ordered my Nexa 2 watch a month ago. refund not received yet. I already emailed twice. I want a replacement or refund, nothing else.",dnoe. Reversed the payment and dispatched a new one under RMA.,Returns & Refunds,Returns Desk,A3036,,,
+TK-251856,GW-OTHER,6999.0,"Hello Vireo,
+Bought Strata 3 around 02 Apr from Flipkart.  Double payment deducted.
+I waited a week. Nothing changed.
+Waiting for your reply.
+Thanks in advance, Tenzin Yadav",cx ok,Billing & Payments,Billing,A3034,,,
+TK-253563,GW-OTHER,1040.0,"Product: my Nexa 2 wathc
+Order: VR905875
+Purchased: 22/05
+Issue: the courier mraked it delivered but nobody in my house got anything
+Tried: checked the tracking page dily
+Expected: callback",cust contacted re ord not delivered. chk awb w/ crr. refunded rs 1040.,Delivery & Shipping,Logistics,A3028,,,
+TK-241755,GW-OTHER,5524.0,"dear sir/madam,
+
+i am writing with reference to my order of nexa 2 placed on april 04.  the display just ignores my finger half the time. i have restarted. i request you to kindly arrange a replacement.
+
+regards,
+lobsang jain","issue: unresponsive display | asked for video -> replacement raised.
+cx got the amount back, also sending a new set to keep him happy. ~Reyansh",Warranty & Repair,Escalations & Warranty,A3039,,,
+TK-247905,GW-OTHER,237.0,"UPI shosw success, your app shows nothing","1. amount deducted without order
+2. confirmed with payment gateway
+3. refunded rs 237 ~Sneha",Billing & Payments,Billing,A3032,,,
+TK-245000,GW-OTHER,3499.0,[IVR transcript] hey u picked up the item 4 days ago and my moeny hasn't come back pulse2 urgent,"1. refund delay
+2. checked refund status on pg
+3. refunded rs 3499 ~Sneha",Billing & Payments,Billing,A3032,,,
+TK-253804,GW-OTHER,3324.0,"not acceptable at this price.  bought my pulse 2 around march 19 from vireo.in. the left earbud is not charging at all. i already tried a different cable. i want a replacement or refund, nothing else.","1. left earbud not taking charge
+2. asked cx to clean charging pins
+3. replacement raised, rma shared with cx. | full refund issued and replacement dispatched as goodwill. -VB",Charging & Battery,Chat Frontline,A3006,,,
+TK-249130,GW-OTHER,2499.0,"Hello Vireo, Orbit Mini purchased 2 weeks ago, order VR898468.  Cancel order VR898468. What do I do now?",see prev,Other,Chat Frontline,A3004,,,
+TK-240984,GW-OTHER,1799.0,the progress bar has not moved since morning,cx: fw update failed | asked cx to keep in case 30 min -> refunded rs 1799,App & Firmware,Email Frontline,A3019,,,
+TK-251467,CANCEL,1487.0,"Hi Vireo support,
+Ordered pulse 2 buds around Diwali. Please cancel, ordered by mistake.
+I tried cancel button, greyed out. Nothing changed.
+Waiting for your reply.","1. Cancle order
+2. Checked shipment status
+3. rfnd approved, Rs 1487, 5-7 working days -KS",Other,Chat Frontline,A3003,,,
+TK-244561,GW-OTHER,2499.0,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of the Pulse buds placed on 30/08. Payment was deducted but no order was created. I have checked bank statement. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Thomas Ghosh",Cusst contacted re failed order aftter payment. conf w/ payment gateway. Refunded Rs 2499. Cx satisfied on chat.,Billing & Payments,Billing,A3035,,,
+TK-245777,GW-OTHER,2499.0,[IVR transcript] hi i have been sitting at home for 3 days waiting for your courier,"Reported: pickup not done. chk pickup AWB. Refund processed without pickup as goodwill. Case closd with cx consent. (SOP 5.4)
+Amount returned to card; fresh unit shipped from BLR warehouse.",Returns & Refunds,Returns Desk,A3036,,,
+TK-245793,GW-OTHER,6648.0,"To the Vireo Customer Care Team,
+
+I am writig with reference to my order of Pulse2 (VR881924) placed on October 04.  PAYMENT WAS DEDUCTED BUT NO ORDER WAS CREATED. I have waited 24 hours. I request you to look into this matter at the earliest.
+
+Regards,
+Pranav Malhotra","1. amount deducted without order
+2. asked for utr
+3. rfnd of rs 6648 initiated to source ~Sneha",Billing & Payments,Billing,A3032,,,
+TK-247627,WTY-BUYBACK,1299.0,I am losing patience. I bought my Arc on September 20. what is the statsu of my warranty claim. I already emailed twice. Ecsalate this to smoeone senior.,cx reported rma status query. chk qc report. xfer to logistics. refund of rs 1299 initiated to source.,Warranty & Repair,Escalations & Warranty,A3028,,,
+TK-248342,GW-OTHER,6998.0,"hi vireo support, i bougth pulse2 on decebmer 14.  where is teh monney for the return. i cehcked bank. need this sorted this week. regards, imran george","cx reached out - refund delay. Checked reverse pickup QC status. Refund approved, Rs 6998, 5-7 working days. Cx informed.",Returns & Refunds,Returns Desk,A3036,,,
+TK-248095,LOST-TRANSIT,1299.0,package not delivered even after 10 days. waiting for ur rpely,Cust contacted re shipment not rcvd. Confirmed address with cx. Refund of Rs 1299 initiated to source.,Delivery & Shipping,Logistics,A3030,,,
+TK-246642,GW-OTHER,584.0,"Product: the charging case I ordered
+Purchased: 27/10
+Issue: payment went through but I got no order id
+Tried: tried logging out and in
+Expected: resolution",see prev ~Sneha,Billing & Payments,Billing,A3032,,,
+TK-250886,GW-OTHER,12348.0,"watch strap broke within a month, i want a replacement","1. Strap pin issue
+2. Asked for photo
+3. Escalated to wty. | Sent a new unit and released the money as well, cx was in tears on call.",Warranty & Repair,Escalations & Warranty,A3041,,,
+TK-242266,GW-OTHER,160.0,"Dear Sir/Madam,
+
+I am writing with reference to my orer of braided cable placed on 11-05-2025.  Want to cancel my order. I have tried cancle button, greyed out. I request you to provide a resolution within 3 working days.
+
+Yours faithfully,
+Tanvi Agarwal",issue: cancellation request | cancelled bfore dispatch -> full rfnd processed (160) -AD,Other,Chat Frontline,A3014,,,
+TK-251013,RETURN-QC-OK,3324.0,"Dear Sir/Madam,
+
+I am writing w/ reference to my order of the Pulse 2 earbuds (VR905924) placed on 03 Mar. Still waiting for my refund. I have emailed twice. I request you to process a refund to my original payment method.
+
+Yours faithfully,
+Priya Sethi",Refunded Rs 3324. Issue: refund not credited. Checked refund status on PG. Via Logistics.,Returns & Refunds,Returns Desk,A3031,,,
+TK-247664,GW-OTHER,3499.0,"Really frustrating.  Pulse2 pucrhased around Diwali, order VR893226. you picked up the item 14 days ago and my money hasn't come back. I alreayd emailed twice. Fix this or I am posting on twitter.",Full rfnd processed (3499). Issue: rfnd not credited. Checked rfnd status on PG.,Returns & Refunds,Returns Desk,A3036,,,
+TK-250860,RETURN-QC-OK,332.0,"product: pulse2
+order: vr884964
+purchased: 11-02-2026
+issue: the return was accepted but the amount is nowhere in my account
+tried: emailed twice
+expected: fix",cx reached out - refund not credited. chk reverse pickup QC status. Refund conf credited. Follow-up not required.,Billing & Payments,Billing,A3035,,,
+TK-244349,GW-OTHER,2974.0,"[IVR transcript] Hi, Ordered Pulse2 2 weeks ago. Paaid on 13/08, still waiting for something to show up. I checked teh tracking page daily. Nothing changed. Please advise. Awaiting response,","rfnd approved, rs 2974, 5-7 working days. issue: shipment not rcvd. raised ticket with crr partner. //KOM",Other,Voice Frontline,A3025,,,
+TK-248668,LOST-TRANSIT,2799.0,"my order has not been delivered yet
+VR907161
+please call me on my registered number","Reported: order not delivered. Raised ticket with courier partner. Full refund processed (2799). -- Offered replacement, cx preferred rfnd. rfnd processed. //AIS",Delivery & Shipping,Logistics,A3030,,,
+TK-250021,CANCEL,585.0,"hello, bought nexa 2 around february 02 from flipkart. change of mind, please stop the shipment. i trid cancel button, greyed out. what do i do now? thanks in advance, rohn deasi",Reported: order cancellation. Cancelled before dispatch. Full refund processed (585). (SOP 5.4) //SUK,Other,Chat Frontline,A3009,,,
+TK-240338,GW-OTHER,170.0,YOU PICKED UP THE ITEM 14 DAYS AGO AND MY MONEY HASN'T COME BACK. VR897379,refunded rs 170. issue: refund not credited. checked refund status on pg. ~Manish,Returns & Refunds,Returns Desk,A3037,,,
+TK-243514,GW-OTHER,2124.0,"Not what I expected from Vireo. the mini speaker purchased recently, order VR883131. promo code shows invalid. I already tried on app and website. Escalate this to someone senior.","1. coupon not applied
+2. chk coupon validity
+3. refund approved, rs 2124, 5-7 working days",Billing & Payments,Billing,A3033,,,
+TK-250722,GW-OTHER,560.0,"dera team,
+ordered my pulse 2 last week. i haven't recieved my order.
+please help.","1. Shipment not rcvd
+2. Raised ticket with courier partner
+3. RTO conf, reshipped //AIS",Delivery & Shipping,Logistics,A3030,,,
+TK-253621,LOST-TRANSIT,6999.0,"hi team, this is regarding the strata 3. the courier marked it delivered but nobody in my house got anything. i checked the tracking page daily. need tis sorted this week. please revert,",cx reached out - shipment not rcvd. chk awb w/ courier. full rfnd processed (6999).,Delivery & Shipping,Logistics,A3028,,,
+TK-245563,GW-OTHER,3149.0,"[IVR transcript] pathetic experience honestly.  pulse 2 buds purchased last week, order vr892649. refund was promised 16 days ago & nothing. i already checked bank. escalate this to someone senior.","Ticket raised for refund not credited. chk refund status on PG. Refund approved, Rs 3149, 5-7 working days. Follow-up not required.",Returns & Refunds,Returns Desk,A3036,,,
+TK-249687,CANCEL,2974.0,"i have been a loyal customer and this is how u treat me.  i bought pulse 2 on 30-01-2026. please cancel, ordered by mistake. i already tried cancel button, greyed out. refund. now.","Cancelled, refund initiated. Issue: cancellation request. Checked shipment status. [closed]",Other,Chat Frontline,A3015,,,
+TK-248849,GW-OTHER,3499.0,"sir ji
+order not delivered, tracking not updating
+please jaldi",Refunded Rs 3499. Issue: order not delivered. Checked AWB with courier.,Delivery & Shipping,Logistics,A3031,,,
+TK-251908,PRICE-ADJ,499.0,"HI,
+ORDER VR903589 (PULSE 2). Coupon code not working.
+I tried in caps. Nothing changed.
+Very poor quality.
+I want a replacement.","1. coupon not applied
+2. checked coupon validity
+3. rfnd of rs 499 initiated to source",Billing & Payments,Billing,A3033,,,
+TK-248705,GW-OTHER,2499.0,"hi
+the box says my pulse but what's inside is not what i paid for
+my pulse","Contact re incorrect product shipped. Raised w/ warehouse. Replacement raised, RMA shared w/ cx. | Money back to source & a fresh pair shipped. //AIS",Delivery & Shipping,Logistics,A3030,,,
+TK-244570,GW-OTHER,3499.0,"case wont charge since a month ago, VR894402","1. charging case dead
+2. asked cx to try different cable + adaptor
+3. advised port cleaning, resolved.
+refund processed to source; replacement unit also shipped. ~Reyansh",Warranty & Repair,Escalations & Warranty,A3039,,,
+TK-251436,DOA-REPL,1120.0,"product: the strata 3
+order: vr895541
+purchased: 19/12
+issue: microphone is very low on the the strata 3
+tried: checked mic permissions
+expected: replacement",issue: mic not working on calls | tested on clal w/ cx -> full rfnd processed (1120),Audio Quality,Email Frontline,A3019,,,
+TK-253929,GW-OTHER,2124.0,"Product: Pulse earbuds
+Order: VR898635
+Purchased: 09-06-2026
+Issue: payment went through but I got no order id
+Tried: checked bank statement
+Expected: resolution","payment debited, no order | confirmed with payment gateway -> order manually created ~Krishna",Other,Email Frontline,A3018,,,
+TK-253997,GW-OTHER,6299.0,order status stuck on shipped since 07-06-2026,Cx reported delivery delayed. conf address with cx. Refund initiated as lost in transit. Case closed with cx consent. Reversed the payment and dispatched a new one under RMA.,Delivery & Shipping,Logistics,A3027,,,
+TK-245265,GW-OTHER,3499.0,"hi
+where is the money for the return
+pule 2 vr908934
+anyone there",arn shared with cx. issue: rfnd delay. checked reverse pickup qc status. ~Manish,Returns & Refunds,Returns Desk,A3037,,,
+TK-253682,GW-OTHER,3499.0,"Hi,
+This is regarding pulse 2 buds. Wrong product delivered.
+I checked the invoice. Nothing changed.
+Kindly look into it.
+Rgds Suresh Naidu","Refund approved, Rs 3499, 5-7 working days. Issue: incorrect product shipped. Raised with warehouse. -- Cx asked for replacement + refund, explained policy, refund only.",Delivery & Shipping,Logistics,A3031,,,
+TK-247342,GW-OTHER,6999.0,"product: my strata 3 heapdhones
+purchased: 07/11
+issue: only one side plays sound
+tried: reset the buds
+expected: refund","Ticket raised for no audio one side. chk balance settings with cx. esc to wty. Refunded Rs 6999 & also raised rplc, cx was very upset.",Audio Quality,Chat Frontline,A3005,,,
+TK-247354,GW-OTHER,1599.0,"Dear Sir/Madam,
+
+I am writing w/ reference to my order of my Nexa Fit band placed on 09/11. Cancel order. I have tried cancel button, greyed out. I request you to kindly arrange a replacement.
+
+Yours faithfully,
+Arjun Nair",re: order cancellation | checked shipment status -> full refund processed (1599) ~Krishna,Other,Email Frontline,A3018,,,
+TK-247350,GW-OTHER,5199.0,"[IVR transcript] Hello, I bought the Nexa 2 on 08 Nov.  Still waiting for my refund. Please call me on my registered number. Thanks & regards Vivaan Jain","Cx says refund not credited. chk refund status on PG. Full refunnd processed (5199). Will monitor. (SOP 5.4)
+Offered replacement, cx preferred refund. Refund processed.",Returns & Refunds,Returns Desk,A3036,,,
+TK-244644,WTY-BUYBACK,6499.0,received teh wrong item - how do i get this fixed?,"Contact re incorrect product shipped. Raised with warehouse. rfnd issued, cx did not want replacement.
+Refund processed to source; replacement unit also shipped. //AIS",Delivery & Shipping,Logistics,A3030,,,
+TK-240415,PRICE-ADJ,1999.0,I have been a loyal customer and this is how you treat me.  Ordered Pulse earbuds 10 days ago. coupon code not working. I already tried on app and website. Escalate this to someone senior,"1. Discount not applied
+2. Checked cart eligibility
+3. Store credit issued ~Tenzin",Product Enquiry,Chat Frontline,A3010,,,
+TK-244497,DUP-PAYMENT,1799.0,"Dear Sir/Madam,
+
+I am writing with reference to my order of the AirLite buds (VR900694) placed on 01-09-2025. UPI shows success, your app shows nothing. I have waited 24 hours. I request u to look into this matter at the earliest.
+
+Regards,
+Shreya Bhatt",-,Billing & Payments,Billing,A3034,,,
+TK-248110,WTY-BUYBACK,472.0,"hi sir
+letf earbud shos 0% and never charrges
+bahhut pareshan hu
+hello??",left earbud not taking charge | conf fw 2.4.12 -> refunded rs 472 -KS,Charging & Battery,Email Frontline,A3017,,,
+TK-253903,DOA-REPL,6499.0,"dear team,
+got nexa 2 from amazon a month ago.  cannot pair nexa 2 with my laptop.
+i tied on aonther phone.
+how do i get thhis fixed?
+awaiting response ayan bansal","Re-pair successful, rslvd on chat. Issue: device not discoverable. Walked through forget + re-pair. | Full refund issued and rplc dispatched as goodwill. //SUK",Connectivity,Chat Frontline,A3009,,,
+TK-243392,GW-OTHER,6174.0,"want to cancel my order, VR901743",cx: ord cancellation | chk shipment sattus -> refunded rs 6174 ~Tenzin,Other,Chat Frontline,A3010,,,
+TK-246538,GW-OTHER,6499.0,"packed the box a week ago and it's still here
+please call me on my registered number",Cx reported reverse pickup pending. chk pickup AWB. Full refund processed (6499). Will monitor. (SOP 2.7),Returns & Refunds,Returns Desk,A3036,,,
+TK-245721,DUP-PAYMENT,525.0,"paid via UPI, amount deducted, no order confirmation
+VR909784",Cx saays amount deducted witout ord. Asked for UTR. Full rfnd processed (525). Cx informed.,Billing & Payments,Billing,A3035,,,
+TK-252693,GW-OTHER,5849.0,"hi
+the return was accepted but the amount is nowhere in my account
+the nexa 2
+kindly do the needful",cx states rfnd delay. chk reversse pikcup QC status. Full rfnd processed (5849). Cx informed. (SOP 3.1),Returns & Refunds,Returns Desk,A3036,,,
+TK-250091,PRICE-ADJ,1274.0,promo code shows invalid. pls resolev asap,re: coupon not applied | chk coupon validity -> refunded rs 1274,Billing & Payments,Billing,A3033,,,
+TK-244677,GW-OTHER,6999.0,"Pathetic experience honestly. Got my Strata 3 headphones from vireo.in last month. not pairing with my phone. I already tried on another phone. I want a replacement or refund, nothing else","cx: pairing failure | asked cx to reset the device -> reset done, paired ok. | credited full amount, new unit also going out tomorrow. ~Rohit",Connectivity,Chat Frontline,A3013,,,

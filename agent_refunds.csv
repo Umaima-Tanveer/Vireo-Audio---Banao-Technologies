@@ -1,0 +1,45 @@
+agent_id,name,site,team,shift,tier,from_date,to_date,attended_tickets,refund_count,refund_amount_inr,average_refund_inr,refund_rate_pct,refund_amount_per_ticket_inr
+A3001,Suresh Kaur,Indore,Chat Frontline,Night,1,2024-03-17,,207,22,83065.0,3775.68,10.63,401.28
+A3002,Steven Ansari,Indore,Chat Frontline,Night,1,2023-11-29,,224,30,103853.0,3461.77,13.39,463.63
+A3003,Komal Singh,Indore,Chat Frontline,Night,1,2023-11-12,,231,30,76222.0,2540.73,12.99,329.97
+A3004,Geeta Dutta,Bengaluru,Chat Frontline,Day,1,2022-08-25,,195,16,45618.0,2851.12,8.21,233.94
+A3005,Payal Bhatia,Indore,Chat Frontline,Day,1,2023-11-13,,211,31,81023.0,2613.65,14.69,384.0
+A3006,Varun Bhatt,Bengaluru,Chat Frontline,Morning,1,2022-11-09,,230,31,72548.0,2340.26,13.48,315.43
+A3007,Abhishek Gupta,Indore,Chat Frontline,Morning,1,2022-06-09,,231,27,87999.0,3259.22,11.69,380.95
+A3008,Meera Malhotra,Bengaluru,Chat Frontline,Day,1,2021-06-30,,184,17,59077.0,3475.12,9.24,321.07
+A3009,Sukhwinder Singh,Indore,Chat Frontline,Day,1,2024-03-26,,228,26,63041.0,2424.65,11.4,276.5
+A3010,Tenzin Mathew,Bengaluru,Chat Frontline,Morning,1,2021-10-30,,251,32,102255.0,3195.47,12.75,407.39
+A3011,Rohit Gill,Bengaluru,Chat Frontline,Morning,1,2022-03-12,,238,23,84335.0,3666.74,9.66,354.35
+A3012,Lakshmi Srivastava,Bengaluru,Chat Frontline,Day,1,2023-03-08,,210,24,65481.0,2728.38,11.43,311.81
+A3013,Rohit Nair,Bengaluru,Chat Frontline,Morning,1,2022-08-21,,240,27,94370.0,3495.19,11.25,393.21
+A3014,Anjali D'Souza,Bengaluru,Chat Frontline,Day,1,2023-10-11,,205,22,64044.0,2911.09,10.73,312.41
+A3015,Sameer Jadhav,Bengaluru,Chat Frontline,Day,1,2023-03-04,,194,29,82408.0,2841.66,14.95,424.78
+A3016,Thomas Kumar,Indore,Email Frontline,Night,1,2024-08-02,,234,28,83716.0,2989.86,11.97,357.76
+A3017,Kabir Singh,Indore,Email Frontline,Night,1,2021-11-15,,234,32,88352.0,2761.0,13.68,377.57
+A3018,Krishna Bhatt,Indore,Email Frontline,Day,1,2022-05-31,,786,87,231022.0,2655.43,11.07,293.92
+A3019,Kavya Agarwal,Indore,Email Frontline,Morning,1,2021-08-02,,136,12,22174.0,1847.83,8.82,163.04
+A3020,Aadhya Singh,Bengaluru,Email Frontline,Morning,1,2021-02-21,,132,19,47310.0,2490.0,14.39,358.41
+A3021,Meera Mathew,Bengaluru,Email Frontline,Morning,1,2023-11-12,,133,18,55020.0,3056.67,13.53,413.68
+A3022,Daniel Arora,Indore,Email Frontline,Morning,1,2021-04-10,,144,17,36722.0,2160.12,11.81,255.01
+A3023,Ritika Gaikwad,Bengaluru,Voice Frontline,Morning,1,2022-04-21,,136,10,37505.0,3750.5,7.35,275.77
+A3024,Amit Deshpande,Bengaluru,Voice Frontline,Morning,1,2023-07-13,,111,14,43923.0,3137.36,12.61,395.7
+A3025,Komal Malhotra,Bengaluru,Voice Frontline,Morning,1,2023-06-25,,118,9,21767.0,2418.56,7.63,184.47
+A3026,Aadhya Deshpande,Bengaluru,Voice Frontline,Day,1,2021-11-06,,505,65,193955.0,2983.92,12.87,384.07
+A3027,Priya Agarwal,Indore,Logistics,Morning,1,2024-06-12,,276,43,156694.0,3644.05,15.58,567.73
+A3028,Sameer Kapoor,Indore,Logistics,Morning,1,2023-07-19,,269,57,172413.0,3024.79,21.19,640.94
+A3029,Rajat Mukherjee,Bengaluru,Logistics,Morning,1,2020-11-26,,284,45,151218.0,3360.4,15.85,532.46
+A3030,Aishwarya Trivedi,Indore,Logistics,Day,1,2024-03-13,,942,162,507323.0,3131.62,17.2,538.56
+A3031,Zaid Desai,Indore,Logistics,Morning,1,2021-01-25,,302,49,124101.0,2532.67,16.23,410.93
+A3032,Sneha Bansal,Indore,Billing,Morning,1,2022-10-27,,314,126,338500.0,2686.51,40.13,1078.03
+A3033,Vikram Banerjee,Bengaluru,Billing,Morning,1,2021-08-18,,320,113,323954.0,2866.85,35.31,1012.36
+A3034,Tanvi Rathore,Indore,Billing,Morning,1,2022-04-08,,307,118,289841.0,2456.28,38.44,944.11
+A3035,Dev Kulkarni,Bengaluru,Billing,Day,1,2023-03-04,,697,235,627682.0,2670.99,33.72,900.55
+A3036,Ritika D'Souza,Indore,Returns Desk,Day,1,2021-11-13,,526,266,773812.0,2909.07,50.57,1471.13
+A3037,Manish Iyer,Indore,Returns Desk,Morning,1,2023-05-16,,367,175,428670.0,2449.54,47.68,1168.04
+A3038,Ankit Dhillon,Bengaluru,Returns Desk,Morning,1,2021-10-18,,322,171,490184.0,2866.57,53.11,1522.31
+A3039,Reyansh Mishra,Bengaluru,Escalations & Warranty,Morning,2,2024-04-04,,380,43,170641.0,3968.4,11.32,449.06
+A3040,Thomas Jadhav,Bengaluru,Escalations & Warranty,Day,2,2023-09-20,,73,9,20035.0,2226.11,12.33,274.45
+A3041,Mohammed Mehta,Bengaluru,Escalations & Warranty,Day,2,2022-08-14,,73,7,28433.0,4061.86,9.59,389.49
+A3042,Swati Bhatia,Indore,Escalations & Warranty,Day,2,2023-02-05,,59,9,27670.0,3074.44,15.25,468.98
+A3043,Nikhil Gupta,Bengaluru,Escalations & Warranty,Day,2,2023-05-04,,58,5,10506.0,2101.2,8.62,181.14
+A3044,Arjun Kumar,Bengaluru,Escalations & Warranty,Day,2,2024-08-07,,83,9,41450.0,4605.56,10.84,499.4

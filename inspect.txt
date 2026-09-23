@@ -1,0 +1,92 @@
+small comparison so we can identify why 174 became 166.
+
+python - <<'PY'
+import pandas as pd
+
+df = pd.read_csv("canonical_tickets.csv")
+
+refund = pd.to_numeric(df["refund_amount_inr"], errors="coerce").fillna(0)
+
+replacement = df["replacement_issued"].astype(str).str.upper().eq("Y")
+
+x = df[(refund > 0) & replacement].copy()
+
+print("Refund + replacement:", len(x))
+print("Refund amount:", refund.loc[x.index].sum())
+
+print("\nReplacement values:")
+print(df.loc[refund > 0, "replacement_issued"].value_counts(dropna=False))
+
+print("\nBy source:")
+print(x["source_system"].value_counts(dropna=False))
+
+print("\nBy reason:")
+print(
+    x.groupby("refund_reason_code")["refund_amount_inr"]
+     .agg(["count", "sum"])
+     .sort_values("sum", ascending=False)
+)
+PY
+
+
+inspect your canonical CSV columns and make the money field unambiguous.
+
+python - <<'PY'
+import pandas as pd
+
+df = pd.read_csv("canonical_tickets.csv")
+
+print(df.columns.tolist())
+
+print("\nRefund totals:")
+print("refund_amount_inr:", pd.to_numeric(df["refund_amount_inr"], errors="coerce").fillna(0).sum())
+
+if "refund_amount_normalized" in df.columns:
+    print("refund_amount_normalized:", df["refund_amount_normalized"].sum())
+
+print("\nLegacy refund sample:")
+print(
+    df[
+        (df["source_system"] == "legacy_fd") &
+        (pd.to_numeric(df["refund_amount_inr"], errors="coerce").fillna(0) > 0)
+    ][
+        ["ticket_id", "refund_amount_inr"]
+    ].head(10)
+)
+PY
+
+
+
+Fix canonical_tickets.csv
+python - <<'PY'
+import pandas as pd
+
+path = "canonical_tickets.csv"
+
+df = pd.read_csv(path)
+
+# The normalized amount is the authoritative INR amount.
+df["refund_amount_inr"] = pd.to_numeric(
+    df["refund_amount_normalized"], errors="coerce"
+).fillna(0)
+
+# Keep the normalized helper column for traceability.
+df.to_csv(path, index=False)
+
+print("Fixed canonical_tickets.csv")
+
+print("\nCanonical refund total:")
+print(f"₹{df['refund_amount_inr'].sum():,.2f}")
+
+print("\nRefund rows:")
+print((df["refund_amount_inr"] > 0).sum())
+
+print("\nLegacy sample after fix:")
+print(
+    df[
+        (df["source_system"] == "legacy_fd") &
+        (df["refund_amount_inr"] > 0)
+    ][["ticket_id", "refund_amount_inr", "refund_amount_normalized"]]
+    .head(10)
+)
+PY

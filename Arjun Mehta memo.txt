@@ -1,0 +1,52 @@
+# Vireo Audio — Refund Review
+
+**To:** Arjun Mehta, Finance Controller
+**Subject:** Reconciled support-ticket refunds — Jan 2025 to Jun 2026
+
+## Executive finding
+
+The support export contains **12,238 ticket rows**, including migrated records and duplicate ticket IDs across the current helpdesk and legacy system. After reconciling the two sources and normalizing the legacy monetary values, the dataset contains **2,340 canonical refund tickets worth ₹67.10 lakh**.
+
+This provides a reproducible baseline for monthly refund reporting by **reason code, agent, and team**.
+
+## Where the refund value went
+
+| Refund reason |   Refunds |           Value |
+| ------------- | --------: | --------------: |
+| GW-OTHER      |       991 |     ₹29.07 lakh |
+| RETURN-QC-OK  |       452 |     ₹11.81 lakh |
+| DUP-PAYMENT   |       321 |      ₹8.85 lakh |
+| CANCEL        |       222 |      ₹6.13 lakh |
+| DOA-REPL      |       147 |      ₹4.71 lakh |
+| WTY-BUYBACK   |        89 |      ₹2.89 lakh |
+| PRICE-ADJ     |        71 |      ₹2.07 lakh |
+| LOST-TRANSIT  |        47 |      ₹1.57 lakh |
+| **Total**     | **2,340** | **₹67.10 lakh** |
+
+GW-OTHER is the largest recorded reason by both count and value.
+
+## What requires review
+
+The analysis produces a defined review queue rather than treating every exception as a confirmed policy issue:
+
+* **879 GW-OTHER refunds exceed the ₹500 goodwill-credit cap**, representing **₹28.72 lakh**.
+* **166 tickets contain both a refund and replacement**, representing **₹5.74 lakh**. Policy says a refund and replacement should not both be issued for the same order without escalation.
+* **145 order links are ambiguous** after fallback matching and should be checked before relying on the related order information.
+* **110 refunds exceed the listed product retail price**, representing **₹7.58 lakh**. These may be legitimate where quantities or other order-level circumstances explain the amount.
+
+These figures are **review flags, not confirmed policy violations or recoverable savings**.
+
+## Data controls
+
+The reconciliation identified **638 ticket IDs appearing across both helpdesk and legacy systems**. Comparable duplicate records showed the legacy monetary values at 100× the corresponding helpdesk values, so legacy amounts were normalized before aggregation. Current helpdesk records were retained when the same ticket appeared in both systems.
+
+The final refund total reconciles across the monthly and agent reports with a **₹0 difference**.
+
+## Recommended next steps
+
+1. Finance should use the **2,340-ticket / ₹67.10 lakh reconciled dataset** as the current reporting baseline.
+2. Review the **879 GW-OTHER > ₹500 records**, starting with approval and order context rather than assuming an exception is incorrect.
+3. Investigate the **166 refund-plus-replacement records** and the **145 ambiguous order matches**.
+4. Add a reliable **`refund_processed_at`** field to future exports so monthly reporting uses the actual refund date rather than `created_at`.
+
+**Note:** The prototype's AI assistant is used only for ticket-text quality control. Financial totals and reporting are calculated deterministically from the reconciled data.
